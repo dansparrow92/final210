@@ -1,9 +1,14 @@
-# final210
+# This is a Linux/GNY installation using automated scripts
+
 #In the VMware workstation select debian ISO image
-on the preconfig window type "https://phillipsd.com/210/f24sda.cfg
+on the preconfig window type "https://phillipsd.com/210/f24sda.cfg" to give the installation process
+
 #we use the sda.cfg file because the VM workstation recognizes the virtual machines as hardware
-on the debian gnu/linux interface without a GUI we use command wget phillipsd.com/210/post_run
-run command "bash post_get"
+on the debian gnu/linux interface without a GUI we use command 
+wget phillipsd.com/210/post_run
+
+run command "bash post_get" which will install a series of things including 
+
 empty passphrase when prompted
 this screenshot shows a ssh connection from my host machine to my virtal machine
 ![image](https://github.com/user-attachments/assets/337cfc8e-17d9-4f4f-96b3-bddc45880761)
@@ -11,5 +16,11 @@ this screenshot shows a ssh connection from my host machine to my virtal machine
 added a virtual disk with 5gb of allocated memory
 ![image](https://github.com/user-attachments/assets/deb2a7e8-daee-4311-9a08-721968f850a0)
 
-ran fdisk /dev
+ran fdisk /dev/vdb
+run fdisk /degv/vdc
+to create two lvms
+![image](https://github.com/user-attachments/assets/0bbed123-50db-4cd6-8c06-68d552667286)
+
 ![image](https://github.com/user-attachments/assets/c20cc552-555b-412d-8a92-659d084f502b)
+
+
