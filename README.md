@@ -10,3 +10,6 @@ this screenshot shows a ssh connection from my host machine to my virtal machine
 
 added a virtual disk with 5gb of allocated memory
 ![image](https://github.com/user-attachments/assets/deb2a7e8-daee-4311-9a08-721968f850a0)
+
+ran fdisk /dev
+![image](https://github.com/user-attachments/assets/c20cc552-555b-412d-8a92-659d084f502b)
