@@ -27,6 +27,16 @@ sudo pvdisplay
 running sudo vgcreate datavg /dev/vdb1 /dev/vdc1
 ![image](https://github.com/user-attachments/assets/9b4b3c4d-663f-4d63-b103-c85ff541fba3)
 
+running sudo vgscan displays
+![image](https://github.com/user-attachments/assets/7dcc318d-51a5-4a2d-844b-45c8e2d1454b)
+
+sudo lvs
+![image](https://github.com/user-attachments/assets/8c85c4ee-c24f-4976-b29f-83d9a0b7cf02)
+
+sudo lvscan
+![image](https://github.com/user-attachments/assets/6cd16358-d16b-4791-9a2d-7608a0ddf94b)
+
+
 
 
 ![image](https://github.com/user-attachments/assets/c20cc552-555b-412d-8a92-659d084f502b)
