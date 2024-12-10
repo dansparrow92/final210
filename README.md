@@ -42,3 +42,4 @@ sudo lvscan
 ![image](https://github.com/user-attachments/assets/c20cc552-555b-412d-8a92-659d084f502b)
 
 
+
