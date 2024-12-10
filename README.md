@@ -21,6 +21,14 @@ run fdisk /degv/vdc
 to create two lvms
 ![image](https://github.com/user-attachments/assets/0bbed123-50db-4cd6-8c06-68d552667286)
 
+sudo pvdisplay
+![image](https://github.com/user-attachments/assets/772f3b0e-c396-4edf-9d09-e42fdfb6d890)
+
+running sudo vgcreate datavg /dev/vdb1 /dev/vdc1
+![image](https://github.com/user-attachments/assets/9b4b3c4d-663f-4d63-b103-c85ff541fba3)
+
+
+
 ![image](https://github.com/user-attachments/assets/c20cc552-555b-412d-8a92-659d084f502b)
 
 
