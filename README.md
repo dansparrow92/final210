@@ -11,6 +11,49 @@ run command "bash post_get" which will install a series of things including
 
 empty passphrase when prompted!
 
+install > file > new virtual machine
+
+![image](https://github.com/user-attachments/assets/1766ea1a-6937-47f7-8df1-ba0213a8b8ef)
+
+browse for ISO file and continue with defaults
+
+![image](https://github.com/user-attachments/assets/8e916dde-57ab-4a81-8d86-e3e5ba9fb7af)
+
+advanced options
+
+![image](https://github.com/user-attachments/assets/431a1586-c4a6-46ce-b3e0-e216aaa0ec07)
+
+automated install
+
+![image](https://github.com/user-attachments/assets/fde7c13d-a335-4d4e-9cec-818442518930)
+
+we take the precede file from the webpage 
+#i know the SS has the wrong address the actual address used was phillipsd.com/210/f24vda.cfg
+
+![image](https://github.com/user-attachments/assets/472f09dc-03a1-49da-a8ee-544d05f1b259)
+
+we in!
+
+![image](https://github.com/user-attachments/assets/4c208a77-b6aa-469f-a9a0-7d459cfe039b)
+
+wget command
+
+![image](https://github.com/user-attachments/assets/8dce1797-d84d-4167-ab4e-901468c014da)
+
+bash post_run
+
+![image](https://github.com/user-attachments/assets/b724586b-f2d4-4d09-9274-fd66e7d5f99a)
+
+to make sure its running command ip a
+
+![image](https://github.com/user-attachments/assets/e94592e1-0296-4001-a671-41eeb886ed8c)
+
+use nmap to see open ports on the machine
+
+![image](https://github.com/user-attachments/assets/8026cd36-358a-405d-af39-5ffb3345f95a)
+
+
+
 we can SSH into the virtual machine from the host
 this screenshot shows a ssh connection from my host machine to my virtal machine
 
