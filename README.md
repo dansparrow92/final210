@@ -11,13 +11,21 @@ run command "bash post_get" which will install a series of things including
 
 empty passphrase when prompted!
 
+we can SSH into the virtual machine from the host
 this screenshot shows a ssh connection from my host machine to my virtal machine
 
 ![image](https://github.com/user-attachments/assets/337cfc8e-17d9-4f4f-96b3-bddc45880761)
 
-#starting the allocated spaces in KVM
+#allocate spaces in KVM by adding 3 virtual hard drives
+select ADD HARDWARE bottom left
 
-added a virtual disk with 5gb of allocated memory
+![image](https://github.com/user-attachments/assets/3d230a3c-4c16-4873-a397-c8f919a70c7e)
+
+set to 5gs or whatever you want then finish with defaults
+
+![image](https://github.com/user-attachments/assets/b55e814f-ee4e-41d2-91a9-ad084ece9281)
+
+
 
 ![image](https://github.com/user-attachments/assets/deb2a7e8-daee-4311-9a08-721968f850a0)
 
