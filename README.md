@@ -1,4 +1,4 @@
-# This is a Linux/GNY installation using automated scripts
+# This is a Linux/GNU installation using automated scripts
 
 #In the VMware workstation select debian ISO image
 on the preconfig window type "https://phillipsd.com/210/f24sda.cfg" to give the installation process
@@ -14,6 +14,8 @@ empty passphrase when prompted!
 this screenshot shows a ssh connection from my host machine to my virtal machine
 
 ![image](https://github.com/user-attachments/assets/337cfc8e-17d9-4f4f-96b3-bddc45880761)
+
+#starting the allocated spaces in KVM
 
 added a virtual disk with 5gb of allocated memory
 
