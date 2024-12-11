@@ -70,8 +70,13 @@ cat /etc/fstab to change the UUID
 
 ![image](https://github.com/user-attachments/assets/16c834f4-af5f-4ebf-b000-903b9b70e772)
 
+#adding a user named tux1
+
+![image](https://github.com/user-attachments/assets/52df94cf-1b52-405c-96bc-726569bfed46)
+
 
 #note most of this stuffs "whys" are somewhat of a mystery to me but going through the steps of setting up this machine to function properly was i think a eye opening experience and it does inspire me to dig into the world of Linux seeing how much i dont know and how many questions i cannot answer without guidance.
+
 
 
 
